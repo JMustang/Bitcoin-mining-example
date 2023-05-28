@@ -1,0 +1,1 @@
+# Minerando bitcoin com python
